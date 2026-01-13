@@ -5,6 +5,8 @@ typing the record’s key value into one of the multiple input options available
 
 ![quickfind](https://github.com/user-attachments/assets/1c1324fb-643b-4223-89da-4029a623fffd)
 
+Full demo video can be found in the attachments to this repo.  
+
 # Goals
 ## Main Goal
 Reduce the query cost and user wait time of reading multiple records upon opening a list page
@@ -40,4 +42,13 @@ application performance and the user experience resulting in increased customer 
 
 4) Clean and intuitive form design and user interaction.
 
+# Logic 
+
+Each organization defines what menu items are available by populating a new setup table.  For most system menu items, logic will auto populate the necessary meta data fields, but the fields can also be manually set.  
+
+<img width="708" height="333" alt="image" src="https://github.com/user-attachments/assets/8b0b07f3-7c87-4f06-a07d-47041606f76a" />
+
+
+Main execution logic. 
+<img width="1016" height="1173" alt="image" src="https://github.com/user-attachments/assets/f2710fe3-6983-4cdc-89aa-ee1ec57f162d" />
 
