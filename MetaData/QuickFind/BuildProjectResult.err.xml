@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Diagnostics
+  GenerationTime="2026-02-11T19:29:57.4001888+00:00">
+  <Items>
+    <Diagnostic>
+      <DiagnosticType>Compile</DiagnosticType>
+      <Severity>Error</Severity>
+      <Path>dynamics://Form/QuickFind/Method/saveLastValues</Path>
+      <ElementType>Form Method</ElementType>
+      <Moniker>ParameterMissing</Moniker>
+      <Line>73</Line>
+      <Column>9</Column>
+      <EndLine>77</EndLine>
+      <EndColumn>92</EndColumn>
+      <Message>'xSysLastValue.putValue' is missing argument 2 of type 'str(CompanyId)'.</Message>
+    </Diagnostic>
+    <Diagnostic>
+      <DiagnosticType>Compile</DiagnosticType>
+      <Severity>Error</Severity>
+      <Path>dynamics://Form/QuickFind/Method/saveLastValues</Path>
+      <ElementType>Form Method</ElementType>
+      <Moniker>ParameterMissing</Moniker>
+      <Line>73</Line>
+      <Column>9</Column>
+      <EndLine>77</EndLine>
+      <EndColumn>92</EndColumn>
+      <Message>'xSysLastValue.putValue' is missing argument 3 of type 'str(UserId)'.</Message>
+    </Diagnostic>
+    <Diagnostic>
+      <DiagnosticType>Compile</DiagnosticType>
+      <Severity>Error</Severity>
+      <Path>dynamics://Form/QuickFind/Method/saveLastValues</Path>
+      <ElementType>Form Method</ElementType>
+      <Moniker>ParameterMissing</Moniker>
+      <Line>73</Line>
+      <Column>9</Column>
+      <EndLine>77</EndLine>
+      <EndColumn>92</EndColumn>
+      <Message>'xSysLastValue.putValue' is missing argument 4 of type 'Enumeration(UtilElementType)'.</Message>
+    </Diagnostic>
+    <Diagnostic>
+      <DiagnosticType>Compile</DiagnosticType>
+      <Severity>Error</Severity>
+      <Path>dynamics://Form/QuickFind/Method/saveLastValues</Path>
+      <ElementType>Form Method</ElementType>
+      <Moniker>ParameterMissing</Moniker>
+      <Line>73</Line>
+      <Column>9</Column>
+      <EndLine>77</EndLine>
+      <EndColumn>92</EndColumn>
+      <Message>'xSysLastValue.putValue' is missing argument 5 of type 'str(IdentifierName)'.</Message>
+    </Diagnostic>
+  </Items>
+  <Aliases />
+</Diagnostics>
